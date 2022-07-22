@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">carsparts</string>
+    <string name="cars_parts_logo">Logo Cars and parts</string>
+    <string-array name="options">
+        <item>Cars</item>
+        <item>Parts</item>
+        <item>Places</item>
+    </string-array>
+</resources>
